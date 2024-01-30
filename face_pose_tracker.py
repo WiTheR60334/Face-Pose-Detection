@@ -60,7 +60,7 @@ def webcam_face_pose_video():
             mp_drawing = mp.solutions.drawing_utils
             drawing_spec = mp_drawing.DrawingSpec(thickness=1, circle_radius=1)
        
-            cam = cv.VideoCapture(0)
+            cam = cv.VideoCapture(1)
             stframe = st.empty()
        
        
