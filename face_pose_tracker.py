@@ -222,7 +222,7 @@ if app_mode == 'About':
                 - FacePose Tracker is an application designed to analyze and track the head poses of individuals in real-time using a webcam. It accurately determines if a person is looking left, right, up, down, or straight ahead.  \n
                 - Change the app mode from left side bar to video and click on **Use Webcam** to start the camera.  
                
-                - [Github](https://github.com/WiTheR60334/Face_Pose_Tracker/) \n
+                - [Github](https://github.com/WiTheR60334/Face-Pose-Tracker/) \n
     ''')
 
 st.markdown(
